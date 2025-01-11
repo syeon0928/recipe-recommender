@@ -3,6 +3,11 @@
 env/
 venv/
 
+#
+*.xml
+*.egg-info
+data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
